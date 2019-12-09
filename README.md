@@ -12,7 +12,8 @@ Active learning aims to develop label-efficient algorithms by querying the most 
 ## Requirements
 1. Python 3
 2. Pytorch 1
-3. NVIDIA GPU with CUDA CuDNN
+3. Torchvision 0.3
+4. NVIDIA GPU with CUDA CuDNN
 
 
 ## Experiments
