@@ -1,6 +1,6 @@
 # Adversarial Representation Active Learning
 
-Pytoch implementation of 'Adversarial Representation Active Learning'.
+Pytoch implementation of ['Adversarial Representation Active Learning'](https://arxiv.org/pdf/1912.09720.pdf).
 
 by Ali Mottaghi and Serena Yeung.
 
